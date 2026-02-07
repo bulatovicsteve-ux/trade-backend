@@ -1,0 +1,11 @@
+{
+  "name": "trade-backend-nodejs",
+  "version": "2.0.0",
+  "description": "Trade Record Backend - Pure Node.js",
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.75.0",
+    "@sendgrid/mail": "^8.1.0",
+    "formidable": "^3.5.1"
+  }
+}
